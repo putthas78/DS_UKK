@@ -1,0 +1,19 @@
+Presentation 5 minutes
+1.Problem Statement
+2.Objectives
+3.Assess situation
+4.Data science Goal
+
+
+discriptive ອະທິບາຍ ປະຈຸບັນ ແລະ ອະດິດຜ່ານມາ
+predictive
+
+09-03-2023
+Downtime
+preditive maintanace
+
+
+what data about downtime ?
+how many record?
+how many column?
+data dictionary?
